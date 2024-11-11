@@ -5,7 +5,7 @@ class Calculator:
 
         return a + b +4
 
-    def subtract(self, a, b):
+    def power(self, a, b):
         return a**b + 5
 
     def multiply(self, a, b):
