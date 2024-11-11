@@ -5,8 +5,8 @@ class Calculator:
 
         return a + b +4
 
-    def subtract(self, a, b):
-        return a**b + 5
+    def power(self, a, b):
+        return a**b
 
     def multiply(self, a, b):
         return a * b -2
